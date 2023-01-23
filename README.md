@@ -17,5 +17,5 @@ Pre-defined:
 
 
 
-[![Google-Pixel-4-XL-Screenshot-0.png](https://i.postimg.cc/25J1hh8q/Google-Pixel-4-XL-Screenshot-0.png)](https://postimg.cc/SX6QpX9q)
-[![Google-Pixel-4-XL-Screenshot-1.png](https://i.postimg.cc/ZqywrPF2/Google-Pixel-4-XL-Screenshot-1.png)](https://postimg.cc/7Cw142Rn)
+[![Google-Pixel-4-XL-1.png](https://i.postimg.cc/jSsjbZ8B/Google-Pixel-4-XL-1.png)](https://postimg.cc/7fW41MrN)
+[![Google-Pixel-4-XL.png](https://i.postimg.cc/QMFWTh2p/Google-Pixel-4-XL.png)](https://postimg.cc/JyWnwV4n)
